@@ -26,6 +26,7 @@ SECRET_KEY = 'exhlfdat&vfum(-34*c2uroi(($ww(yo$9pv98=e6p^gl(-eoj'
 DEBUG = True
 
 ALLOWED_HOSTS = [159.203.36.205]
+#added a comment to indicate that I have done a change to this file.
 
 
 # Application definition
